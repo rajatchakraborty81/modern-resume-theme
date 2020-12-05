@@ -6,32 +6,26 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Rajat Chakraborty 
+title: Project Consultant
+email: rajatmustangs@gmail.com (optional)
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +91-777-489-8856 (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://trawellblogging.com (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: rajatchakks
+github_username:  rajatchakraborty81
+facebook_username: packurbags
+instagram_username: trawellblogger
+linkedin_username: rajatchaks
+pinterest_username: packurbags
+youtube_username: rajatchakraborty
 
 # Additional icon links
 additional_links:
@@ -52,6 +46,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
+  To move, to breathe, to fly, to float, to gain while all you give..
+  To roam the roads of lands remote, to travel is to live!!
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
