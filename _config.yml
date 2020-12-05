@@ -8,11 +8,11 @@ version: 2
 # Personal info
 name: Rajat Chakraborty 
 title: Project Consultant
-email: rajatmustangs@gmail.com (optional)
+email: rajatmustangs@gmail.com
 # email_title: Email (Email title override)
-phone: +91-777-489-8856 (optional)
+phone: +91-777-489-8856
 # phone_title: Phone (Phone title override)
-website: https://trawellblogging.com (eg. https://google.com)(optional)
+website: https://trawellblogging.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -44,7 +44,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/IMG_20200611_132922.jpg Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   To move, to breathe, to fly, to float, to gain while all you give..
   To roam the roads of lands remote, to travel is to live!!
