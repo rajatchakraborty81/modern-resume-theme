@@ -67,11 +67,10 @@ content:
         quote: >
          
         description: | # this will include new lines to allow paragraphs
+        title: 2019
         
-         title: 2019
-        
-        link: https://i1.wp.com/trawellblogging.com/wp-content/uploads/2020/09/certificate-1.jpg?resize=595%2C421&ssl=1 (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Certified from Mininstry of Tourism 
+        link: https://youtu.be/HX_pbYuBQ3Y (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: **Featured - Top 10 Travel Bloggers In India - Chaipedia** 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
