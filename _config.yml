@@ -66,8 +66,6 @@ content:
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-    
-    content:
       - layout: left
         title: 2019
         link: https://youtu.be/HX_pbYuBQ3Y (eg. sproogen.github.io/modern-resume-theme)(optional)
