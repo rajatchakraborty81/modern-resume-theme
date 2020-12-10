@@ -64,13 +64,14 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-         
+        
         description: | # this will include new lines to allow paragraphs
+    
     content:
-        - layout: left
+      - layout: left
         title: 2019
         link: https://youtu.be/HX_pbYuBQ3Y (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Featured - Top 10 Travel Bloggers In India - Chaipedia 
+        link_text: Featured - Top 10 Travel Bloggers In India by Chaipedia 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
