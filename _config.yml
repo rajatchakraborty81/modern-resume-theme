@@ -56,24 +56,38 @@ content:
         title: 2020
         link: https://i1.wp.com/trawellblogging.com/wp-content/uploads/2020/09/certificate-1.jpg?resize=595%2C421&ssl=1 (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Certified from Mininstry of Tourism 
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
         
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: 2019
         link: https://youtu.be/HX_pbYuBQ3Y (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Featured - Top 10 Travel Bloggers In India by Chaipedia 
+        link_text: Featured - Top 10 Travel Bloggers In India by Chaipedia      
         link: https://indibloghub.com/interview/rajat-chakraborty-travel-interview
         link_text: Indibloghub - Interview with Travel Blogger
         quote: >
          
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: 2018
+        link: https://www.indiblogger.in/post/nepal-how-i-underestimated-the-country-and-how-it-took-me-by-surprise (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Top Post on Indiblogger:- How I Underestimated Nepal and How It Took Me By Surprise
+        link: https://trawellblogging.com/exploring-alberta-lifetime-memories/ (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Top Post on Indiblogger:- Why Exploring Alberta is all about lifetime of memories 
+        link: https://trawellblogging.com/photo-essay-breathtaking-evening-skyline-views-swayambhunath-temple/ (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Top Post on Indiblogger:- Photo-essay: Breathtaking Evening Skyline Views from Swayambhunath Temple 
+        link: https://www.indiblogger.in/post/nepal-how-i-underestimated-the-country-and-how-it-took-me-by-surprise (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Featured on Blogadda :- How I Underestimated Nepal and how it took me by Surprise 
+        link: http://forum.blogadda.com/discussion/3722/wow-the-kite-fell-on-the-ground#Item_5 (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Blogadda WOW Post:- The Kite Fell on the Ground 
+        link: https://trawellblogging.com/exploring-alberta-lifetime-memories/ (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Invited as Guest Speaker as ‘Human Library’ by ‘The Climber’, Nagpur Chapter
+        link: https://toursinindia.in/top-travel-bloggers-india/#1_Rajat_Chakraborty (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Top 100 Travel Blogger’s List on Tours In India 
+        link: https://www.imzi-tours-travel.com/blog/imzi-rsquo-s-nomads-the-complete-list-of-winners/5/ (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Listed As Top Travel Blogger With Imzi Tours Nov 2018        
+        quote: >
+        
         description: | # this will include new lines to allow paragraphs
           
   - title: Experience
