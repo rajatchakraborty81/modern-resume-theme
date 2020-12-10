@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
   Rajat is a freelance travel blogger with extensive experience of a decade plus years of traveling and
   7+ years of travel writing experience. He writes extensively on [DIY International Travel](https://trawellblogging.com/destinations/),[Travel Hacks](https://trawellblogging.com/trawell-hacks/), Destination and Stay reviews.
   
-  He has authored [4 travel books](https://www.amazon.in/Rajat-Chakraborty/e/B082R7Z5WJ/)so far and worked single handedly on developing methods to use
+  He has authored [4 travel books](https://www.amazon.in/Rajat-Chakraborty/e/B082R7Z5WJ/) so far and worked single handedly on developing methods to use
   Airline Miles Programs with debit cards.
   
   He also runs an independent travel space on Quora - ['Trawellblogger's Guides'](https://www.quora.com/q/trawellbloggersguides) which draws more than 200,000 followers.
@@ -98,6 +98,19 @@ content:
         link_text: Listed As Top Travel Blogger With Imzi Tours Nov 2018        
         quote: >
         
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: 2017
+        link: https://audioboom.com/posts/6125610-tms-specials-fly-smart-fly-cheap?t=0 (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Featured: The Musafir Stories: India Travel Podcast – TMS Specials Fly Smart, Fly Cheap
+      - layout: left
+        link: http://www.indiantopblogs.com/2017/09/trawellblogging.html
+        link_text: Featured Blogger: Indian Top Blogs 
+      - layout: left
+        link: https://unsplash.com/photos/x1TCnZh1SRc
+        link_text: Feature Travel Photo: Leh Evenings on ‘Unsplash’ 
+        quote: >
+         
         description: | # this will include new lines to allow paragraphs
           
   - title: Experience
