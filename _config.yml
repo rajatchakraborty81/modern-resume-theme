@@ -70,7 +70,7 @@ content:
         title: 2019
         
         link: https://youtu.be/HX_pbYuBQ3Y (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: **Featured - Top 10 Travel Bloggers In India - Chaipedia** 
+        link_text: Featured - Top 10 Travel Bloggers In India - Chaipedia 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
