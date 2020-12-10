@@ -70,13 +70,8 @@ content:
         title: 2019
         link: https://youtu.be/HX_pbYuBQ3Y (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Featured - Top 10 Travel Bloggers In India by Chaipedia 
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://indibloghub.com/interview/rajat-chakraborty-travel-interview
+        link_text: Indibloghub - Interview with Travel Blogger
         quote: >
          
         description: | # this will include new lines to allow paragraphs
