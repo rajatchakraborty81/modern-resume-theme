@@ -37,8 +37,9 @@ youtube_username: rajatchakraborty
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/IMG_20200611_132922.jpg Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  To move, to breathe, to fly, to float, to gain while all you give..
-  To roam the roads of lands remote, to travel is to live!!
+  *To move, to breathe, to fly, to float, to gain while all you give..
+  To roam the roads of lands remote, to travel is to live!!*
+  
   Rajat is a freelance travel blogger with extensive experience of a decade plus years of traveling and
   7+ years of travel writing experience. He writes extensively on [DIY International Travel](https://trawellblogging.com/destinations/),[Travel Hacks](https://trawellblogging.com/trawell-hacks/), Destination and Stay reviews.
   
