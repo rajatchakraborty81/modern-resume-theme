@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Rajat Chakraborty 
-title: Project Consultant
-email: rajatmustangs@gmail.com
+title: Trawellblogger | Author | Entrepreneur
+email: info@trawellblogging.com
 # email_title: Email (Email title override)
 phone: +91-777-489-8856
 # phone_title: Phone (Phone title override)
@@ -16,7 +16,7 @@ website: https://trawellblogging.com
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: rajatchakks
@@ -48,6 +48,15 @@ about_profile_image: images/IMG_20200611_132922.jpg Directory of profile image (
 about_content: | # this will include new lines to allow paragraphs
   To move, to breathe, to fly, to float, to gain while all you give..
   To roam the roads of lands remote, to travel is to live!!
+  Rajat is a freelance travel blogger with extensive experience of a decade plus years of traveling and
+  7+ years of travel writing experience. He writes extensively on DIY International Travel, Travel Hacks, Destination and Stay reviews.
+He has authored 4 travel books so far and worked
+single handedly on developing methods to use
+Airline Miles Programs with debit cards.
+He also runs an independent travel space on Quora
+- 'Trawellblogger's Guides' which draws
+morethan 130,000 followers.
+
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
