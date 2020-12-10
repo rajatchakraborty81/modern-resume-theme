@@ -52,9 +52,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: 2020
+        link: https://i1.wp.com/trawellblogging.com/wp-content/uploads/2020/09/certificate-1.jpg?resize=595%2C421&ssl=1 (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Certified from Mininstry of Tourism 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
