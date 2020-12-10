@@ -12,7 +12,7 @@ email: info@trawellblogging.com
 # email_title: Email (Email title override)
 phone: +91-777-489-8856
 # phone_title: Phone (Phone title override)
-website: https://trawellblogging.com
+website: [Pack-Ur-Bags - A Trawellblogger's Guide To Explore Life!!](https://trawellblogging.com)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -26,15 +26,6 @@ instagram_username: trawellblogger
 linkedin_username: rajatchaks
 pinterest_username: packurbags
 youtube_username: rajatchakraborty
-
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -57,7 +48,7 @@ about_content: | # this will include new lines to allow paragraphs
   He also runs an independent travel space on Quora - ['Trawellblogger's Guides'](https://www.quora.com/q/trawellbloggersguides) which draws more than 200,000 followers.
 
 content:
-  - title: Projects # Title for the section
+  - title: Awards & Recognitions # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
